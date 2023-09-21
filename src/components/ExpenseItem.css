@@ -1,0 +1,34 @@
+
+
+
+.expense-item h2{
+    margin-top:5px;
+    display: inline-block;
+    float: left;
+    width: 30%;
+    text-transform: uppercase;
+    font-weight:900;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+}
+.date{
+    float: left;
+    display: inline-block;
+    width: 30%;
+}
+.date div{
+    display: inline-block;
+    padding:10px
+}
+.price{
+    text-align: center;
+    padding: 10px;
+    width: 30%;
+    display: inline-block;
+    margin-left: 5%;
+    background:rgba(87, 101, 116,1.0) ;
+    border-radius: 5px;
+    font-weight: 900;
+    font-size: 1.1em;
+    color: rgba(200, 214, 229,1.0);
+}
